@@ -1,4 +1,4 @@
-# Portfolio: Grazielle Café
+# Portfolio: Grazielle Café - V2 
 
 Getting Started with Create React App
 
